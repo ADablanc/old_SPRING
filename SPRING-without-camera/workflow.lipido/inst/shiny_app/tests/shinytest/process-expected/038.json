@@ -1,0 +1,9 @@
+{
+  "input": {
+    "process_cpd_classes": [
+      "FA",
+      "Cer",
+      "LPC"
+    ]
+  }
+}

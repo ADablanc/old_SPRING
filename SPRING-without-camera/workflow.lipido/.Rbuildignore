@@ -1,0 +1,8 @@
+^README\.md$
+^LICENSE\.md$
+\.so$
+\.dll$
+\.o$
+^inst/testdata/.*\.sqlite-.*$
+^inst/shiny_app/tests/shinytest/.*-current$
+^inst/shiny_app/tests/shinytest/.*-expected/.*\.png$

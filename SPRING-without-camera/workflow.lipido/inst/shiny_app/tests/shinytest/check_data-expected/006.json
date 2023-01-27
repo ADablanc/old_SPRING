@@ -1,0 +1,1371 @@
+{
+  "output": {
+    "check_data_eic_mzdev": {
+      "x": {
+        "data": [
+          {
+            "mode": "markers",
+            "type": "scatter",
+            "marker": {
+              "color": "rgba(31,119,180,1)",
+              "line": {
+                "color": "rgba(31,119,180,1)"
+              }
+            },
+            "error_y": {
+              "color": "rgba(31,119,180,1)"
+            },
+            "error_x": {
+              "color": "rgba(31,119,180,1)"
+            },
+            "line": {
+              "color": "rgba(31,119,180,1)"
+            },
+            "xaxis": "x",
+            "yaxis": "y",
+            "frame": null
+          },
+          {
+            "mode": "lines",
+            "type": "scatter",
+            "x": [
+              2.91268333333333,
+              2.92828333333333,
+              2.93608333333333,
+              2.95948333333333,
+              2.96725,
+              2.97506666666667,
+              2.98293333333333,
+              2.99071666666667,
+              2.99861666666667,
+              3.0064,
+              3.01431666666667,
+              null,
+              3.38091666666667,
+              3.3883,
+              3.40306666666667,
+              3.41043333333333,
+              3.44713333333333,
+              3.46171666666667,
+              3.47615,
+              3.49061666666667,
+              3.50515,
+              3.53391666666667,
+              3.54845
+            ],
+            "y": [
+              2773.189453125,
+              9197.908203125,
+              4988.1953125,
+              592614.6953125,
+              2476654,
+              5781428,
+              6265286.5,
+              54002.0625,
+              54002.0625,
+              0,
+              5876.859375,
+              null,
+              1038.724609375,
+              0,
+              928.87646484375,
+              1962.49072265625,
+              2533.68359375,
+              2761.9111328125,
+              2520.841796875,
+              2214.54248046875,
+              1979.82470703125,
+              2273.7197265625,
+              1068.7802734375
+            ],
+            "name": "[M-H]-",
+            "legendgroup": "[M-H]-",
+            "showlegend": true,
+            "hoverinfo": [
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              null,
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text"
+            ],
+            "text": [
+              "[M-H]-<br />rT: 2.91 min<br />intensity: 2 773",
+              "[M-H]-<br />rT: 2.93 min<br />intensity: 9 198",
+              "[M-H]-<br />rT: 2.94 min<br />intensity: 4 988",
+              "[M-H]-<br />rT: 2.96 min<br />intensity: 592 615",
+              "[M-H]-<br />rT: 2.97 min<br />intensity: 2 476 654",
+              "[M-H]-<br />rT: 2.98 min<br />intensity: 5 781 428",
+              "[M-H]-<br />rT: 2.98 min<br />intensity: 6 265 287",
+              "[M-H]-<br />rT: 2.99 min<br />intensity: 54 002",
+              "[M-H]-<br />rT: 3 min<br />intensity: 54 002",
+              "[M-H]-<br />rT: 3.01 min<br />intensity: 0",
+              "[M-H]-<br />rT: 3.01 min<br />intensity: 5 877",
+              null,
+              "[M-H]-<br />rT: 3.38 min<br />intensity: 1 039",
+              "[M-H]-<br />rT: 3.39 min<br />intensity: 0",
+              "[M-H]-<br />rT: 3.4 min<br />intensity: 928.9",
+              "[M-H]-<br />rT: 3.41 min<br />intensity: 1 962",
+              "[M-H]-<br />rT: 3.45 min<br />intensity: 2 534",
+              "[M-H]-<br />rT: 3.46 min<br />intensity: 2 762",
+              "[M-H]-<br />rT: 3.48 min<br />intensity: 2 521",
+              "[M-H]-<br />rT: 3.49 min<br />intensity: 2 215",
+              "[M-H]-<br />rT: 3.51 min<br />intensity: 1 980",
+              "[M-H]-<br />rT: 3.53 min<br />intensity: 2 274",
+              "[M-H]-<br />rT: 3.55 min<br />intensity: 1 069"
+            ],
+            "marker": {
+              "color": "rgba(252,141,98,1)",
+              "line": {
+                "color": "rgba(252,141,98,1)"
+              }
+            },
+            "textfont": {
+              "color": "rgba(252,141,98,1)"
+            },
+            "error_y": {
+              "color": "rgba(252,141,98,1)"
+            },
+            "error_x": {
+              "color": "rgba(252,141,98,1)"
+            },
+            "line": {
+              "color": "rgba(252,141,98,1)"
+            },
+            "xaxis": "x",
+            "yaxis": "y",
+            "frame": null
+          },
+          {
+            "mode": "lines",
+            "type": "scatter",
+            "x": [
+              2.4134999593099,
+              2.41995086669922,
+              2.42604649861654,
+              2.43214213053385,
+              2.45096893310547,
+              2.45706456502279,
+              2.4631601969401,
+              2.46925582885742,
+              2.48848037719727,
+              2.50817413330078,
+              2.51480967203776,
+              2.52134577433268,
+              2.52796732584635,
+              2.54788818359375,
+              2.55448099772135,
+              2.57433115641276,
+              2.58105189005534,
+              2.58777262369792,
+              2.6078498840332,
+              2.66905,
+              2.68468333333333,
+              2.69251666666667,
+              2.70818333333333,
+              2.7239,
+              2.73183333333333,
+              2.75545,
+              2.77123333333333,
+              2.78713333333333,
+              2.80286666666667,
+              2.81065,
+              2.8185,
+              2.82636666666667,
+              2.83423333333333,
+              2.85765,
+              2.86555,
+              2.8812,
+              2.88901666666667,
+              2.897,
+              2.91268333333333,
+              null,
+              3.01431666666667,
+              3.02211666666667,
+              3.03006666666667,
+              3.04606666666667,
+              3.06936666666667,
+              3.09258333333333,
+              3.10028333333333,
+              3.11581666666667,
+              3.13126666666667,
+              3.13895,
+              3.16973333333333,
+              3.22285,
+              3.23816666666667,
+              3.25326666666667,
+              3.29081666666667,
+              3.29861666666667,
+              3.3062,
+              3.32878333333333,
+              3.34366666666667,
+              3.35105,
+              3.3585,
+              3.38091666666667,
+              null,
+              3.54845
+            ],
+            "y": [
+              0,
+              4275.63671875,
+              16000.953125,
+              0,
+              41345.65625,
+              30130.453125,
+              7435.69140625,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              5254.61328125,
+              5254.61328125,
+              24096.015625,
+              35355.625,
+              11259.609375,
+              1074.19921875,
+              1074.19921875,
+              0,
+              0,
+              1664,
+              0,
+              1630,
+              0,
+              1409.0146484375,
+              3118.044921875,
+              1709.0302734375,
+              0,
+              0,
+              1824.3994140625,
+              1892.677734375,
+              2021.599609375,
+              2021.599609375,
+              2185.5703125,
+              4491.87890625,
+              0,
+              2773.189453125,
+              null,
+              5876.859375,
+              0,
+              12731.2890625,
+              12731.2890625,
+              0,
+              0,
+              1167.0146484375,
+              2823.0146484375,
+              4394.12109375,
+              2738.12109375,
+              1523.2568359375,
+              1523.2568359375,
+              0,
+              1054.876953125,
+              1054.876953125,
+              0,
+              1486.79296875,
+              1486.79296875,
+              0,
+              1057.05859375,
+              0,
+              1038.724609375,
+              null,
+              1068.7802734375
+            ],
+            "name": "[M-H]-",
+            "legendgroup": "[M-H]-",
+            "showlegend": false,
+            "line": {
+              "color": "black",
+              "width": 1,
+              "dash": "dash"
+            },
+            "hoverinfo": [
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              null,
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              null,
+              "text"
+            ],
+            "text": [
+              "[M-H]-<br />rT: 2.41 min<br />intensity: 0",
+              "[M-H]-<br />rT: 2.42 min<br />intensity: 4 276",
+              "[M-H]-<br />rT: 2.43 min<br />intensity: 16 001",
+              "[M-H]-<br />rT: 2.43 min<br />intensity: 0",
+              "[M-H]-<br />rT: 2.45 min<br />intensity: 41 346",
+              "[M-H]-<br />rT: 2.46 min<br />intensity: 30 130",
+              "[M-H]-<br />rT: 2.46 min<br />intensity: 7 436",
+              "[M-H]-<br />rT: 2.47 min<br />intensity: 0",
+              "[M-H]-<br />rT: 2.49 min<br />intensity: 0",
+              "[M-H]-<br />rT: 2.51 min<br />intensity: 0",
+              "[M-H]-<br />rT: 2.51 min<br />intensity: 0",
+              "[M-H]-<br />rT: 2.52 min<br />intensity: 0",
+              "[M-H]-<br />rT: 2.53 min<br />intensity: 0",
+              "[M-H]-<br />rT: 2.55 min<br />intensity: 5 255",
+              "[M-H]-<br />rT: 2.55 min<br />intensity: 5 255",
+              "[M-H]-<br />rT: 2.57 min<br />intensity: 24 096",
+              "[M-H]-<br />rT: 2.58 min<br />intensity: 35 356",
+              "[M-H]-<br />rT: 2.59 min<br />intensity: 11 260",
+              "[M-H]-<br />rT: 2.61 min<br />intensity: 1 074",
+              "[M-H]-<br />rT: 2.67 min<br />intensity: 1 074",
+              "[M-H]-<br />rT: 2.68 min<br />intensity: 0",
+              "[M-H]-<br />rT: 2.69 min<br />intensity: 0",
+              "[M-H]-<br />rT: 2.71 min<br />intensity: 1 664",
+              "[M-H]-<br />rT: 2.72 min<br />intensity: 0",
+              "[M-H]-<br />rT: 2.73 min<br />intensity: 1 630",
+              "[M-H]-<br />rT: 2.76 min<br />intensity: 0",
+              "[M-H]-<br />rT: 2.77 min<br />intensity: 1 409",
+              "[M-H]-<br />rT: 2.79 min<br />intensity: 3 118",
+              "[M-H]-<br />rT: 2.8 min<br />intensity: 1 709",
+              "[M-H]-<br />rT: 2.81 min<br />intensity: 0",
+              "[M-H]-<br />rT: 2.82 min<br />intensity: 0",
+              "[M-H]-<br />rT: 2.83 min<br />intensity: 1 824",
+              "[M-H]-<br />rT: 2.83 min<br />intensity: 1 893",
+              "[M-H]-<br />rT: 2.86 min<br />intensity: 2 022",
+              "[M-H]-<br />rT: 2.87 min<br />intensity: 2 022",
+              "[M-H]-<br />rT: 2.88 min<br />intensity: 2 186",
+              "[M-H]-<br />rT: 2.89 min<br />intensity: 4 492",
+              "[M-H]-<br />rT: 2.9 min<br />intensity: 0",
+              "[M-H]-<br />rT: 2.91 min<br />intensity: 2 773",
+              null,
+              "[M-H]-<br />rT: 3.01 min<br />intensity: 5 877",
+              "[M-H]-<br />rT: 3.02 min<br />intensity: 0",
+              "[M-H]-<br />rT: 3.03 min<br />intensity: 12 731",
+              "[M-H]-<br />rT: 3.05 min<br />intensity: 12 731",
+              "[M-H]-<br />rT: 3.07 min<br />intensity: 0",
+              "[M-H]-<br />rT: 3.09 min<br />intensity: 0",
+              "[M-H]-<br />rT: 3.1 min<br />intensity: 1 167",
+              "[M-H]-<br />rT: 3.12 min<br />intensity: 2 823",
+              "[M-H]-<br />rT: 3.13 min<br />intensity: 4 394",
+              "[M-H]-<br />rT: 3.14 min<br />intensity: 2 738",
+              "[M-H]-<br />rT: 3.17 min<br />intensity: 1 523",
+              "[M-H]-<br />rT: 3.22 min<br />intensity: 1 523",
+              "[M-H]-<br />rT: 3.24 min<br />intensity: 0",
+              "[M-H]-<br />rT: 3.25 min<br />intensity: 1 055",
+              "[M-H]-<br />rT: 3.29 min<br />intensity: 1 055",
+              "[M-H]-<br />rT: 3.3 min<br />intensity: 0",
+              "[M-H]-<br />rT: 3.31 min<br />intensity: 1 487",
+              "[M-H]-<br />rT: 3.33 min<br />intensity: 1 487",
+              "[M-H]-<br />rT: 3.34 min<br />intensity: 0",
+              "[M-H]-<br />rT: 3.35 min<br />intensity: 1 057",
+              "[M-H]-<br />rT: 3.36 min<br />intensity: 0",
+              "[M-H]-<br />rT: 3.38 min<br />intensity: 1 039",
+              null,
+              "[M-H]-<br />rT: 3.55 min<br />intensity: 1 069"
+            ],
+            "marker": {
+              "color": "rgba(252,141,98,1)",
+              "line": {
+                "color": "rgba(252,141,98,1)"
+              }
+            },
+            "textfont": {
+              "color": "rgba(252,141,98,1)"
+            },
+            "error_y": {
+              "color": "rgba(252,141,98,1)"
+            },
+            "error_x": {
+              "color": "rgba(252,141,98,1)"
+            },
+            "xaxis": "x",
+            "yaxis": "y",
+            "frame": null
+          },
+          {
+            "mode": "lines",
+            "type": "scatter",
+            "x": [
+              2.84333333333333,
+              2.84333333333333,
+              null,
+              3.17666666666667,
+              3.17666666666667
+            ],
+            "y": [
+              0,
+              6265286.5,
+              null,
+              0,
+              6265286.5
+            ],
+            "showlegend": false,
+            "line": {
+              "color": "rgb(0,0,0)",
+              "width": 2,
+              "dash": "dash"
+            },
+            "hoverinfo": [
+              "skip",
+              "skip",
+              null,
+              "skip",
+              "skip"
+            ],
+            "marker": {
+              "color": "rgba(214,39,40,1)",
+              "line": {
+                "color": "rgba(214,39,40,1)"
+              }
+            },
+            "error_y": {
+              "color": "rgba(214,39,40,1)"
+            },
+            "error_x": {
+              "color": "rgba(214,39,40,1)"
+            },
+            "xaxis": "x",
+            "yaxis": "y",
+            "frame": null
+          },
+          {
+            "mode": "markers",
+            "type": "scatter",
+            "marker": {
+              "color": "rgba(148,103,189,1)",
+              "line": {
+                "color": "rgba(148,103,189,1)"
+              }
+            },
+            "error_y": {
+              "color": "rgba(148,103,189,1)"
+            },
+            "error_x": {
+              "color": "rgba(148,103,189,1)"
+            },
+            "line": {
+              "color": "rgba(148,103,189,1)"
+            },
+            "xaxis": "x",
+            "yaxis": "y2",
+            "frame": null
+          },
+          {
+            "mode": "markers",
+            "type": "scatter",
+            "x": [
+              2.41995086669922,
+              2.42604649861654,
+              2.45096893310547,
+              2.45706456502279,
+              2.4631601969401,
+              2.54788818359375,
+              2.57433115641276,
+              2.58105189005534,
+              2.6078498840332,
+              2.70818333333333,
+              2.73183333333333,
+              2.77123333333333,
+              2.78713333333333,
+              2.82636666666667,
+              2.83423333333333,
+              2.85765,
+              2.8812,
+              2.88901666666667,
+              2.91268333333333,
+              2.92828333333333,
+              2.93608333333333,
+              2.95948333333333,
+              2.96725,
+              2.97506666666667,
+              2.98293333333333,
+              2.99071666666667,
+              3.01431666666667,
+              3.03006666666667,
+              3.10028333333333,
+              3.11581666666667,
+              3.13126666666667,
+              3.16973333333333,
+              3.25326666666667,
+              3.3062,
+              3.35105,
+              3.38091666666667,
+              3.40306666666667,
+              3.41043333333333,
+              3.44713333333333,
+              3.46171666666667,
+              3.47615,
+              3.49061666666667,
+              3.50515,
+              3.53391666666667,
+              3.54845
+            ],
+            "y": [
+              0.858300781260368,
+              0.766748046885368,
+              1.28554687501037,
+              1.16347656251037,
+              1.19399414063537,
+              -0.514990234364632,
+              0.827783203135368,
+              1.31606445313537,
+              0.0953613281353682,
+              0.888818359385368,
+              0.827783203135368,
+              -1.18637695311463,
+              0.888818359385368,
+              0.705712890635368,
+              1.31606445313537,
+              1.16347656251037,
+              1.13295898438537,
+              1.10244140626037,
+              0.370019531260368,
+              0.888818359385368,
+              0.522607421885368,
+              0.614160156260368,
+              1.04140625001037,
+              1.16347656251037,
+              1.04140625001037,
+              1.19399414063537,
+              1.19399414063537,
+              1.25502929688537,
+              0.949853515635368,
+              -0.179296874989632,
+              0.370019531260368,
+              1.10244140626037,
+              1.19399414063537,
+              0.797265625010368,
+              0.949853515635368,
+              -0.637060546864632,
+              0.888818359385368,
+              0.644677734385368,
+              1.04140625001037,
+              1.01088867188537,
+              0.125878906260368,
+              -0.972753906239632,
+              -1.27792968748963,
+              0.553125000010368,
+              1.07192382813537
+            ],
+            "hoverinfo": [
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text",
+              "text"
+            ],
+            "name": "[M-H]-",
+            "legendgroup": "[M-H]-",
+            "text": [
+              "[M-H]-<br />rT: 2.42 min<br />m/z deviation: 0.86 mDa",
+              "[M-H]-<br />rT: 2.43 min<br />m/z deviation: 0.77 mDa",
+              "[M-H]-<br />rT: 2.45 min<br />m/z deviation: 1.29 mDa",
+              "[M-H]-<br />rT: 2.46 min<br />m/z deviation: 1.16 mDa",
+              "[M-H]-<br />rT: 2.46 min<br />m/z deviation: 1.19 mDa",
+              "[M-H]-<br />rT: 2.55 min<br />m/z deviation: -0.51 mDa",
+              "[M-H]-<br />rT: 2.57 min<br />m/z deviation: 0.83 mDa",
+              "[M-H]-<br />rT: 2.58 min<br />m/z deviation: 1.32 mDa",
+              "[M-H]-<br />rT: 2.61 min<br />m/z deviation: 0.1 mDa",
+              "[M-H]-<br />rT: 2.71 min<br />m/z deviation: 0.89 mDa",
+              "[M-H]-<br />rT: 2.73 min<br />m/z deviation: 0.83 mDa",
+              "[M-H]-<br />rT: 2.77 min<br />m/z deviation: -1.19 mDa",
+              "[M-H]-<br />rT: 2.79 min<br />m/z deviation: 0.89 mDa",
+              "[M-H]-<br />rT: 2.83 min<br />m/z deviation: 0.71 mDa",
+              "[M-H]-<br />rT: 2.83 min<br />m/z deviation: 1.32 mDa",
+              "[M-H]-<br />rT: 2.86 min<br />m/z deviation: 1.16 mDa",
+              "[M-H]-<br />rT: 2.88 min<br />m/z deviation: 1.13 mDa",
+              "[M-H]-<br />rT: 2.89 min<br />m/z deviation: 1.1 mDa",
+              "[M-H]-<br />rT: 2.91 min<br />m/z deviation: 0.37 mDa",
+              "[M-H]-<br />rT: 2.93 min<br />m/z deviation: 0.89 mDa",
+              "[M-H]-<br />rT: 2.94 min<br />m/z deviation: 0.52 mDa",
+              "[M-H]-<br />rT: 2.96 min<br />m/z deviation: 0.61 mDa",
+              "[M-H]-<br />rT: 2.97 min<br />m/z deviation: 1.04 mDa",
+              "[M-H]-<br />rT: 2.98 min<br />m/z deviation: 1.16 mDa",
+              "[M-H]-<br />rT: 2.98 min<br />m/z deviation: 1.04 mDa",
+              "[M-H]-<br />rT: 2.99 min<br />m/z deviation: 1.19 mDa",
+              "[M-H]-<br />rT: 3.01 min<br />m/z deviation: 1.19 mDa",
+              "[M-H]-<br />rT: 3.03 min<br />m/z deviation: 1.26 mDa",
+              "[M-H]-<br />rT: 3.1 min<br />m/z deviation: 0.95 mDa",
+              "[M-H]-<br />rT: 3.12 min<br />m/z deviation: -0.18 mDa",
+              "[M-H]-<br />rT: 3.13 min<br />m/z deviation: 0.37 mDa",
+              "[M-H]-<br />rT: 3.17 min<br />m/z deviation: 1.1 mDa",
+              "[M-H]-<br />rT: 3.25 min<br />m/z deviation: 1.19 mDa",
+              "[M-H]-<br />rT: 3.31 min<br />m/z deviation: 0.8 mDa",
+              "[M-H]-<br />rT: 3.35 min<br />m/z deviation: 0.95 mDa",
+              "[M-H]-<br />rT: 3.38 min<br />m/z deviation: -0.64 mDa",
+              "[M-H]-<br />rT: 3.4 min<br />m/z deviation: 0.89 mDa",
+              "[M-H]-<br />rT: 3.41 min<br />m/z deviation: 0.64 mDa",
+              "[M-H]-<br />rT: 3.45 min<br />m/z deviation: 1.04 mDa",
+              "[M-H]-<br />rT: 3.46 min<br />m/z deviation: 1.01 mDa",
+              "[M-H]-<br />rT: 3.48 min<br />m/z deviation: 0.13 mDa",
+              "[M-H]-<br />rT: 3.49 min<br />m/z deviation: -0.97 mDa",
+              "[M-H]-<br />rT: 3.51 min<br />m/z deviation: -1.28 mDa",
+              "[M-H]-<br />rT: 3.53 min<br />m/z deviation: 0.55 mDa",
+              "[M-H]-<br />rT: 3.55 min<br />m/z deviation: 1.07 mDa"
+            ],
+            "marker": {
+              "color": "rgba(252,141,98,1)",
+              "line": {
+                "color": "rgba(252,141,98,1)"
+              }
+            },
+            "textfont": {
+              "color": "rgba(252,141,98,1)"
+            },
+            "error_y": {
+              "color": "rgba(252,141,98,1)"
+            },
+            "error_x": {
+              "color": "rgba(252,141,98,1)"
+            },
+            "line": {
+              "color": "rgba(252,141,98,1)"
+            },
+            "xaxis": "x",
+            "yaxis": "y2",
+            "frame": null
+          },
+          {
+            "mode": "lines",
+            "type": "scatter",
+            "x": [
+              2.84333333333333,
+              2.84333333333333,
+              3.17666666666667,
+              3.17666666666667,
+              2.84333333333333
+            ],
+            "y": [
+              -15,
+              15,
+              15,
+              -15,
+              -15
+            ],
+            "showlegend": false,
+            "line": {
+              "color": "rgb(0,0,0)",
+              "width": 2,
+              "dash": "dash"
+            },
+            "hoverinfo": [
+              "skip",
+              "skip",
+              "skip",
+              "skip",
+              "skip"
+            ],
+            "marker": {
+              "color": "rgba(227,119,194,1)",
+              "line": {
+                "color": "rgba(227,119,194,1)"
+              }
+            },
+            "error_y": {
+              "color": "rgba(227,119,194,1)"
+            },
+            "error_x": {
+              "color": "rgba(227,119,194,1)"
+            },
+            "xaxis": "x",
+            "yaxis": "y2",
+            "frame": null
+          }
+        ],
+        "layout": {
+          "xaxis": {
+            "domain": [
+              0,
+              1
+            ],
+            "automargin": true,
+            "title": "Retention time",
+            "titlefont": {
+              "family": "\"Open Sans\",verdana,arial,sans-serif",
+              "size": 18
+            },
+            "showspikes": true,
+            "spikemode": "across",
+            "spikedash": "dash",
+            "spikecolor": "#000000",
+            "spikethickness": 1,
+            "ticksuffix": " min",
+            "showticksuffix": "all",
+            "hoverformat": ".2f",
+            "anchor": "y2"
+          },
+          "yaxis2": {
+            "domain": [
+              0,
+              0.48
+            ],
+            "automargin": true,
+            "exponentformat": "e",
+            "hoverformat": ".2f",
+            "anchor": "x"
+          },
+          "yaxis": {
+            "domain": [
+              0.52,
+              1
+            ],
+            "automargin": true,
+            "exponentformat": "e",
+            "hoverformat": ".2e",
+            "anchor": "x"
+          },
+          "annotations": [
+            {
+              "xref": "paper",
+              "yref": "paper",
+              "x": 0,
+              "y": 1,
+              "xanchor": "left",
+              "yanchor": "bottom",
+              "text": "Intensity",
+              "showarrow": false,
+              "font": {
+                "family": "\"Open Sans\",verdana,arial,sans-serif",
+                "size": 18
+              }
+            },
+            {
+              "text": "[M-H]-",
+              "x": 2.98293333333333,
+              "y": 6265286.5,
+              "xref": "x",
+              "yref": "y",
+              "valign": "bottom",
+              "arrowhead": 0
+            },
+            {
+              "xref": "paper",
+              "yref": "paper",
+              "x": 0,
+              "y": 0.48,
+              "xanchor": "left",
+              "yanchor": "bottom",
+              "text": "m/z deviation (mDa)",
+              "showarrow": false,
+              "font": {
+                "family": "\"Open Sans\",verdana,arial,sans-serif",
+                "size": 18
+              }
+            }
+          ],
+          "shapes": [
+
+          ],
+          "images": [
+
+          ],
+          "margin": {
+            "b": 40,
+            "l": 60,
+            "t": 50,
+            "r": 10
+          },
+          "title": "",
+          "spikedistance": -1,
+          "hovermode": "closest",
+          "hoverlabel": {
+            "namelength": -1
+          },
+          "selectdirection": "h",
+          "showlegend": true
+        },
+        "source": "A",
+        "config": {
+          "modeBarButtonsToAdd": [
+            "hoverclosest",
+            "hovercompare"
+          ],
+          "showSendToCloud": false,
+          "responsive": true,
+          "displaylogo": false,
+          "scrollZoom": false,
+          "modeBarButtons": [
+            [
+              {
+                "name": "toImage",
+                "title": "Download plot as a png",
+                "icon": "Plotly.Icons.camera",
+                "click": "function(gd) {Plotly.downloadImage(gd, {format:'png', width:1200, height:400, filename:'mzdev'})}"
+              }
+            ],
+            [
+              "zoom2d",
+              "autoScale2d"
+            ]
+          ]
+        },
+        "highlight": {
+          "on": "plotly_click",
+          "persistent": false,
+          "dynamic": false,
+          "selectize": false,
+          "opacityDim": 0.2,
+          "selected": {
+            "opacity": 1
+          },
+          "debounce": 0
+        },
+        "subplot": true,
+        "shinyEvents": [
+          "plotly_hover",
+          "plotly_click",
+          "plotly_selected",
+          "plotly_relayout",
+          "plotly_brushed",
+          "plotly_brushing",
+          "plotly_clickannotation",
+          "plotly_doubleclick",
+          "plotly_deselect",
+          "plotly_afterplot",
+          "plotly_sunburstclick"
+        ],
+        "base_url": "https://plot.ly"
+      },
+      "evals": [
+        "config.modeBarButtons.0.0.icon",
+        "config.modeBarButtons.0.0.click"
+      ],
+      "jsHooks": {
+        "render": [
+          {
+            "code": "function(el, x) {el.on(\"plotly_restyle\", () => {annotations = el.layout.annotations;for (var i = 1; i < annotations.length; i++) {annotations[i].visible = el._fullData[i * 2 - 1].visible != \"legendonly\"}Plotly.relayout(el, {annotations: annotations});});}",
+            "data": null
+          }
+        ]
+      },
+      "deps": [
+        {
+          "name": "setprototypeof",
+          "version": "0.1",
+          "src": {
+            "href": "setprototypeof-0.1"
+          },
+          "meta": null,
+          "script": "setprototypeof.js",
+          "stylesheet": null,
+          "head": null,
+          "attachment": null,
+          "all_files": false
+        },
+        {
+          "name": "typedarray",
+          "version": "0.1",
+          "src": {
+            "href": "typedarray-0.1"
+          },
+          "meta": null,
+          "script": "typedarray.min.js",
+          "stylesheet": null,
+          "head": null,
+          "attachment": null,
+          "all_files": false
+        },
+        {
+          "name": "jquery",
+          "version": "3.5.1",
+          "src": {
+            "href": "jquery-3.5.1"
+          },
+          "meta": null,
+          "script": "jquery.min.js",
+          "stylesheet": null,
+          "head": null,
+          "attachment": null,
+          "all_files": true
+        },
+        {
+          "name": "crosstalk",
+          "version": "1.2.0",
+          "src": {
+            "href": "crosstalk-1.2.0"
+          },
+          "meta": null,
+          "script": "js/crosstalk.min.js",
+          "stylesheet": "css/crosstalk.min.css",
+          "head": null,
+          "attachment": null,
+          "all_files": true
+        },
+        {
+          "name": "plotly-htmlwidgets-css",
+          "version": "2.5.1",
+          "src": {
+            "href": "plotly-htmlwidgets-css-2.5.1"
+          },
+          "meta": null,
+          "script": null,
+          "stylesheet": "plotly-htmlwidgets.css",
+          "head": null,
+          "attachment": null,
+          "all_files": false
+        },
+        {
+          "name": "plotly-main",
+          "version": "2.5.1",
+          "src": {
+            "href": "plotly-main-2.5.1"
+          },
+          "meta": null,
+          "script": "plotly-latest.min.js",
+          "stylesheet": null,
+          "head": null,
+          "attachment": null,
+          "all_files": false
+        }
+      ]
+    },
+    "check_data_heatmap": {
+      "x": {
+        "layout": {
+          "margin": {
+            "b": 40,
+            "l": 60,
+            "t": 25,
+            "r": 10
+          },
+          "hoverlabel": {
+            "namelength": -1
+          },
+          "xaxis": {
+            "domain": [
+              0,
+              1
+            ],
+            "automargin": true,
+            "title": [
+
+            ]
+          },
+          "yaxis": {
+            "domain": [
+              0,
+              1
+            ],
+            "automargin": true,
+            "title": [
+
+            ]
+          },
+          "scene": {
+            "zaxis": {
+              "title": [
+
+              ]
+            }
+          },
+          "hovermode": "closest",
+          "showlegend": false,
+          "legend": {
+            "yanchor": "top",
+            "y": 0.5
+          }
+        },
+        "source": "A",
+        "config": {
+          "modeBarButtonsToAdd": [
+            "hoverclosest",
+            "hovercompare"
+          ],
+          "showSendToCloud": false,
+          "responsive": true,
+          "displaylogo": false,
+          "modeBarButtons": [
+            [
+              {
+                "name": "toImage",
+                "title": "Download plot as a png",
+                "icon": "Plotly.Icons.camera",
+                "click": "function(gd) {Plotly.downloadImage(gd, {format:'png', width:1200, height:400, filename:'heatmap'})}"
+              }
+            ],
+            [
+              "zoom2d",
+              "autoScale2d"
+            ]
+          ]
+        },
+        "data": [
+          {
+            "type": "heatmap",
+            "xaxis": "x",
+            "yaxis": "y",
+            "frame": null
+          },
+          {
+            "colorbar": {
+              "title": "",
+              "ticklen": 2,
+              "len": 0.5,
+              "lenmode": "fraction",
+              "y": 1,
+              "yanchor": "top"
+            },
+            "colorscale": [
+              [
+                "0",
+                "rgba(68,1,84,1)"
+              ],
+              [
+                "0.0416666666666667",
+                "rgba(70,19,97,1)"
+              ],
+              [
+                "0.0833333333333334",
+                "rgba(72,32,111,1)"
+              ],
+              [
+                "0.125",
+                "rgba(71,45,122,1)"
+              ],
+              [
+                "0.166666666666667",
+                "rgba(68,58,128,1)"
+              ],
+              [
+                "0.208333333333333",
+                "rgba(64,70,135,1)"
+              ],
+              [
+                "0.25",
+                "rgba(60,82,138,1)"
+              ],
+              [
+                "0.291666666666667",
+                "rgba(56,93,140,1)"
+              ],
+              [
+                "0.333333333333333",
+                "rgba(49,104,142,1)"
+              ],
+              [
+                "0.375",
+                "rgba(46,114,142,1)"
+              ],
+              [
+                "0.416666666666667",
+                "rgba(42,123,142,1)"
+              ],
+              [
+                "0.458333333333333",
+                "rgba(38,133,141,1)"
+              ],
+              [
+                "0.5",
+                "rgba(37,144,140,1)"
+              ],
+              [
+                "0.541666666666667",
+                "rgba(33,154,138,1)"
+              ],
+              [
+                "0.583333333333333",
+                "rgba(39,164,133,1)"
+              ],
+              [
+                "0.625",
+                "rgba(47,174,127,1)"
+              ],
+              [
+                "0.666666666666667",
+                "rgba(53,183,121,1)"
+              ],
+              [
+                "0.708333333333333",
+                "rgba(79,191,110,1)"
+              ],
+              [
+                "0.75",
+                "rgba(98,199,98,1)"
+              ],
+              [
+                "0.791666666666667",
+                "rgba(119,207,85,1)"
+              ],
+              [
+                "0.833333333333333",
+                "rgba(147,214,70,1)"
+              ],
+              [
+                "0.875",
+                "rgba(172,220,52,1)"
+              ],
+              [
+                "0.916666666666667",
+                "rgba(199,225,42,1)"
+              ],
+              [
+                "0.958333333333333",
+                "rgba(226,228,40,1)"
+              ],
+              [
+                "1",
+                "rgba(253,231,37,1)"
+              ]
+            ],
+            "showscale": true,
+            "type": "heatmap",
+            "x": [
+              "FA 17:0",
+              "LPC 11:0"
+            ],
+            "y": [
+              "220221CCM_global__01_ssleu_filtered",
+              "220221CCM_global__02_ssleu_filtered"
+            ],
+            "z": [
+              [
+                8927664.85468527,
+                6214416.44108707
+              ],
+              [
+                4593482.66518999,
+                6578365.65569723
+              ]
+            ],
+            "hoverinfo": "text",
+            "text": [
+              [
+                "sample: 220221CCM_global__01_ssleu_filtered<br />cpd: FA 17:0<br />intensity: 8 927 665",
+                "sample: 220221CCM_global__01_ssleu_filtered<br />cpd: LPC 11:0<br />intensity: 6 214 416"
+              ],
+              [
+                "sample: 220221CCM_global__02_ssleu_filtered<br />cpd: FA 17:0<br />intensity: 4 593 483",
+                "sample: 220221CCM_global__02_ssleu_filtered<br />cpd: LPC 11:0<br />intensity: 6 578 366"
+              ]
+            ],
+            "xaxis": "x",
+            "yaxis": "y",
+            "frame": null
+          }
+        ],
+        "highlight": {
+          "on": "plotly_click",
+          "persistent": false,
+          "dynamic": false,
+          "selectize": false,
+          "opacityDim": 0.2,
+          "selected": {
+            "opacity": 1
+          },
+          "debounce": 0
+        },
+        "shinyEvents": [
+          "plotly_hover",
+          "plotly_click",
+          "plotly_selected",
+          "plotly_relayout",
+          "plotly_brushed",
+          "plotly_brushing",
+          "plotly_clickannotation",
+          "plotly_doubleclick",
+          "plotly_deselect",
+          "plotly_afterplot",
+          "plotly_sunburstclick"
+        ],
+        "base_url": "https://plot.ly"
+      },
+      "evals": [
+        "config.modeBarButtons.0.0.icon",
+        "config.modeBarButtons.0.0.click"
+      ],
+      "jsHooks": {
+        "render": [
+          {
+            "code": "function(el, x) {\n                el.on(\"plotly_click\", function(data) {\n                    Shiny.onInputChange(\"check_data_heatmap_click\", {\n                        sample: data.points[0].y,\n                        cpd_name: data.points[0].x\n                    })\n                })\n            }",
+            "data": null
+          }
+        ]
+      },
+      "deps": [
+        {
+          "name": "setprototypeof",
+          "version": "0.1",
+          "src": {
+            "href": "setprototypeof-0.1"
+          },
+          "meta": null,
+          "script": "setprototypeof.js",
+          "stylesheet": null,
+          "head": null,
+          "attachment": null,
+          "all_files": false
+        },
+        {
+          "name": "typedarray",
+          "version": "0.1",
+          "src": {
+            "href": "typedarray-0.1"
+          },
+          "meta": null,
+          "script": "typedarray.min.js",
+          "stylesheet": null,
+          "head": null,
+          "attachment": null,
+          "all_files": false
+        },
+        {
+          "name": "jquery",
+          "version": "3.5.1",
+          "src": {
+            "href": "jquery-3.5.1"
+          },
+          "meta": null,
+          "script": "jquery.min.js",
+          "stylesheet": null,
+          "head": null,
+          "attachment": null,
+          "all_files": true
+        },
+        {
+          "name": "crosstalk",
+          "version": "1.2.0",
+          "src": {
+            "href": "crosstalk-1.2.0"
+          },
+          "meta": null,
+          "script": "js/crosstalk.min.js",
+          "stylesheet": "css/crosstalk.min.css",
+          "head": null,
+          "attachment": null,
+          "all_files": true
+        },
+        {
+          "name": "plotly-htmlwidgets-css",
+          "version": "2.5.1",
+          "src": {
+            "href": "plotly-htmlwidgets-css-2.5.1"
+          },
+          "meta": null,
+          "script": null,
+          "stylesheet": "plotly-htmlwidgets.css",
+          "head": null,
+          "attachment": null,
+          "all_files": false
+        },
+        {
+          "name": "plotly-main",
+          "version": "2.5.1",
+          "src": {
+            "href": "plotly-main-2.5.1"
+          },
+          "meta": null,
+          "script": "plotly-latest.min.js",
+          "stylesheet": null,
+          "head": null,
+          "attachment": null,
+          "all_files": false
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "input": {
+    "project_modal_visible": true
+  },
+  "output": {
+    "project_name": ""
+  },
+  "export": {
+    "conflict_id": 0
+  }
+}
